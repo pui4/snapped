@@ -606,6 +606,12 @@
 		(uuid "47ca18e7-7034-4595-a395-60a2c59ac651")
 	)
 	(junction
+		(at 110.49 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4c236949-1c6d-4048-88c8-1d0d124cc379")
+	)
+	(junction
 		(at 232.41 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -622,6 +628,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "521d98fd-dd40-4951-9076-16a76f745e2d")
+	)
+	(junction
+		(at 110.49 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57a14307-b391-48a9-a009-058aa88cfe46")
 	)
 	(junction
 		(at 49.53 55.88)
@@ -702,12 +714,6 @@
 		(uuid "7bc7082f-6e87-4499-af89-933e401b2c8a")
 	)
 	(junction
-		(at 110.49 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "818de76a-6a2d-4bb7-92fe-365471e3dc61")
-	)
-	(junction
 		(at 125.73 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -760,6 +766,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ac28053c-7346-4bb4-8e95-a535f07ad92c")
+	)
+	(junction
+		(at 125.73 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ae0f1f43-6077-4c32-8280-426d8266c7ff")
 	)
 	(junction
 		(at 64.77 63.5)
@@ -930,8 +942,8 @@
 		(uuid "ff051a6d-e5b5-43d3-b79f-befce9c95447")
 	)
 	(no_connect
-		(at 118.11 71.12)
-		(uuid "fbbe864c-063c-4c40-8157-7e9d217d5dc6")
+		(at 133.35 71.12)
+		(uuid "fef28f0d-dee4-4e55-8219-1eef6ca3eb55")
 	)
 	(wire
 		(pts
@@ -1285,16 +1297,6 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 63.5) (xy 110.49 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68a58c50-003f-4326-a9cd-ea3f2f0a232d")
-	)
-	(wire
-		(pts
 			(xy 125.73 17.78) (xy 140.97 17.78)
 		)
 		(stroke
@@ -1302,6 +1304,16 @@
 			(type default)
 		)
 		(uuid "6c21bb36-7faa-4f58-9047-15fe93b3b1e4")
+	)
+	(wire
+		(pts
+			(xy 110.49 78.74) (xy 125.73 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7022d5b7-4911-4ebb-991f-4d46b40af1c1")
 	)
 	(wire
 		(pts
@@ -1452,6 +1464,16 @@
 			(type default)
 		)
 		(uuid "98126b64-4119-4e20-88e0-ae0a9a5253c8")
+	)
+	(wire
+		(pts
+			(xy 125.73 63.5) (xy 273.05 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3c4cd56-b24e-4fd9-a40b-a3d3c09ad287")
 	)
 	(wire
 		(pts
@@ -1745,6 +1767,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 63.5) (xy 125.73 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1abdc35-1061-4791-b7d8-82a3b6ba8a4c")
+	)
+	(wire
+		(pts
 			(xy 232.41 17.78) (xy 247.65 17.78)
 		)
 		(stroke
@@ -1893,7 +1925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 66.04 78.74 0)
 			(effects
 				(font
@@ -1971,7 +2003,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 35.56 33.02 0)
 			(effects
 				(font
@@ -2049,7 +2081,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 66.04 33.02 0)
 			(effects
 				(font
@@ -2127,7 +2159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 187.96 55.88 0)
 			(effects
 				(font
@@ -2205,7 +2237,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 172.72 55.88 0)
 			(effects
 				(font
@@ -2283,7 +2315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 187.96 33.02 0)
 			(effects
 				(font
@@ -2361,7 +2393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 172.72 33.02 0)
 			(effects
 				(font
@@ -2439,7 +2471,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 218.44 33.02 0)
 			(effects
 				(font
@@ -2517,7 +2549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 157.48 55.88 0)
 			(effects
 				(font
@@ -2595,7 +2627,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 111.76 33.02 0)
 			(effects
 				(font
@@ -2673,7 +2705,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 50.8 55.88 0)
 			(effects
 				(font
@@ -2751,7 +2783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 233.68 33.02 0)
 			(effects
 				(font
@@ -2829,7 +2861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 50.8 78.74 0)
 			(effects
 				(font
@@ -2907,7 +2939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 96.52 55.88 0)
 			(effects
 				(font
@@ -2985,7 +3017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 127 33.02 0)
 			(effects
 				(font
@@ -3063,7 +3095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 66.04 55.88 0)
 			(effects
 				(font
@@ -3141,7 +3173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 96.52 78.74 0)
 			(effects
 				(font
@@ -3219,7 +3251,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 35.56 55.88 0)
 			(effects
 				(font
@@ -3297,7 +3329,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 203.2 55.88 0)
 			(effects
 				(font
@@ -3349,6 +3381,84 @@
 	)
 	(symbol
 		(lib_id "SK6812MINI-E:SK6812MINI-E")
+		(at 125.73 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84e5666b-8062-4ed8-ab6c-d394d60ac3d1")
+		(property "Reference" "D157"
+			(at 151.13 64.6998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812MINI-E"
+			(at 151.13 67.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+			)
+		)
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
+			(at 127 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf"
+			(at 128.27 80.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 125.73 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "302d0504-8755-4c5d-83bd-7c3f798dc346")
+		)
+		(pin "4"
+			(uuid "c439a1b7-6af0-4d7f-9606-63b67527a9f9")
+		)
+		(pin "2"
+			(uuid "f278a3e3-c3ec-480f-af20-f04bc6ff174e")
+		)
+		(pin "1"
+			(uuid "7106c9e2-f436-4b99-b715-f159f499b1b6")
+		)
+		(instances
+			(project "split_keeb"
+				(path "/b7eb43b0-c363-4b01-b49e-ca46ab5210f5/ae4bea95-4bbe-46f1-a2e1-77f68a6f565b/778f6772-18fc-4b17-be33-62b3fac16c33"
+					(reference "D157")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SK6812MINI-E:SK6812MINI-E")
 		(at 262.89 25.4 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3375,7 +3485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 264.16 33.02 0)
 			(effects
 				(font
@@ -3453,7 +3563,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 81.28 55.88 0)
 			(effects
 				(font
@@ -3597,7 +3707,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 142.24 55.88 0)
 			(effects
 				(font
@@ -3675,7 +3785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 142.24 33.02 0)
 			(effects
 				(font
@@ -3753,7 +3863,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 50.8 33.02 0)
 			(effects
 				(font
@@ -3897,7 +4007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 35.56 78.74 0)
 			(effects
 				(font
@@ -3975,7 +4085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 248.92 55.88 0)
 			(effects
 				(font
@@ -4053,7 +4163,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 111.76 78.74 0)
 			(effects
 				(font
@@ -4131,7 +4241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 218.44 55.88 0)
 			(effects
 				(font
@@ -4209,7 +4319,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 127 55.88 0)
 			(effects
 				(font
@@ -4287,7 +4397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 264.16 55.88 0)
 			(effects
 				(font
@@ -4365,7 +4475,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 233.68 55.88 0)
 			(effects
 				(font
@@ -4443,7 +4553,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 248.92 33.02 0)
 			(effects
 				(font
@@ -4521,7 +4631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 81.28 78.74 0)
 			(effects
 				(font
@@ -4599,7 +4709,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 157.48 33.02 0)
 			(effects
 				(font
@@ -4677,7 +4787,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 96.52 33.02 0)
 			(effects
 				(font
@@ -4755,7 +4865,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 111.76 55.88 0)
 			(effects
 				(font
@@ -4833,7 +4943,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 203.2 33.02 0)
 			(effects
 				(font
@@ -4911,7 +5021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
 			(at 81.28 33.02 0)
 			(effects
 				(font
