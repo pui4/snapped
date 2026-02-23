@@ -1909,7 +1909,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 96.52 30.48 0)
 			(effects
 				(font
@@ -2241,7 +2241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 116.84 30.48 0)
 			(effects
 				(font
@@ -2309,7 +2309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 135.89 66.04 0)
 			(effects
 				(font
@@ -2377,7 +2377,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 96.52 66.04 0)
 			(effects
 				(font
@@ -2709,7 +2709,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 116.84 48.26 0)
 			(effects
 				(font
@@ -2865,7 +2865,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 96.52 83.82 0)
 			(effects
 				(font
@@ -2933,7 +2933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 78.74 83.82 0)
 			(effects
 				(font
@@ -3001,7 +3001,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-2U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_1.75u"
 			(at 41.91 137.16 0)
 			(effects
 				(font
@@ -3421,7 +3421,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 135.89 83.82 0)
 			(effects
 				(font
@@ -3489,7 +3489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 116.84 66.04 0)
 			(effects
 				(font
@@ -3645,7 +3645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 135.89 30.48 0)
 			(effects
 				(font
@@ -3713,7 +3713,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1.25U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_1.25u"
 			(at 154.94 119.38 0)
 			(effects
 				(font
@@ -4045,7 +4045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 60.96 66.04 0)
 			(effects
 				(font
@@ -4113,7 +4113,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 96.52 48.26 0)
 			(effects
 				(font
@@ -4357,7 +4357,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 60.96 137.16 0)
 			(effects
 				(font
@@ -4513,7 +4513,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 116.84 119.38 0)
 			(effects
 				(font
@@ -4757,7 +4757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 116.84 101.6 0)
 			(effects
 				(font
@@ -4825,7 +4825,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 60.96 119.38 0)
 			(effects
 				(font
@@ -4893,7 +4893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 60.96 83.82 0)
 			(effects
 				(font
@@ -4961,7 +4961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 78.74 30.48 0)
 			(effects
 				(font
@@ -5117,7 +5117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 135.89 101.6 0)
 			(effects
 				(font
@@ -5537,7 +5537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1.25U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_1.25u"
 			(at 154.94 101.6 0)
 			(effects
 				(font
@@ -5693,7 +5693,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 116.84 83.82 0)
 			(effects
 				(font
@@ -5761,7 +5761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-2U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_1.75u"
 			(at 41.91 119.38 0)
 			(effects
 				(font
@@ -5917,7 +5917,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1.25U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_1.25u"
 			(at 154.94 66.04 0)
 			(effects
 				(font
@@ -5985,7 +5985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 78.74 101.6 0)
 			(effects
 				(font
@@ -6141,7 +6141,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 135.89 48.26 0)
 			(effects
 				(font
@@ -6385,7 +6385,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1.25U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_1.25u"
 			(at 154.94 83.82 0)
 			(effects
 				(font
@@ -6629,7 +6629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 78.74 66.04 0)
 			(effects
 				(font
@@ -6697,7 +6697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 96.52 101.6 0)
 			(effects
 				(font
@@ -6765,7 +6765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 154.94 48.26 0)
 			(effects
 				(font
@@ -6833,7 +6833,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 154.94 30.48 0)
 			(effects
 				(font
@@ -6901,7 +6901,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 78.74 48.26 0)
 			(effects
 				(font
@@ -7057,7 +7057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 60.96 48.26 0)
 			(effects
 				(font
@@ -7125,7 +7125,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 41.91 48.26 0)
 			(effects
 				(font
@@ -7193,7 +7193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 135.89 119.38 0)
 			(effects
 				(font
@@ -7525,7 +7525,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 60.96 30.48 0)
 			(effects
 				(font
@@ -7593,7 +7593,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 41.91 30.48 0)
 			(effects
 				(font
@@ -7749,7 +7749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron_KS33_Hotswap:Gateron-KS33-Hotswap-1U"
+		(property "Footprint" "PCM_marbastlib-xp-gateron_lp:SW_KS33_HS_KS-2P02B01-02_HS_1u"
 			(at 60.96 101.6 0)
 			(effects
 				(font
